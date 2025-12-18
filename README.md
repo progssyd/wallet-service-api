@@ -26,8 +26,7 @@ How to Run the Project
 To set up and run the project locally:
 
 1- Clone the repository:
-git clone https://github.com/your-username/wallet-service-api.git
-cd wallet-service-api
+git clone https://github.com/progssyd/wallet-service-api.git
 
 2- Install dependencies:
 composer install
